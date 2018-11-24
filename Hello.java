@@ -5,6 +5,7 @@ public class Hello{
 		System.out.println('Haha');
 		System.out.println('bbb');
 		System.out.println('aaaa');
+		System.out.println('ccc');
 	}
 	
 }
