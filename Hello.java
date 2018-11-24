@@ -5,6 +5,8 @@ public class Hello{
 	private String bbb;
 	
 	private String master;
+
+	private String ccc;
 	
 	public static void main(String[] args){
 		System.out.println('Hello Git World');
